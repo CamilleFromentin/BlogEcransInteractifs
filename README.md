@@ -23,3 +23,8 @@ References
 - https://support.google.com/maps/answer/3045850?hl=fr
 - https://books.google.com/ngrams/graph?content=%C3%A9crans%2C+interactifs&year_start=1800&year_end=2000&corpus=19&smoothing=3&share=&direct_url=t1%3B%2C%C3%A9crans%3B%2Cc0%3B.t1%3B%2Cinteractifs%3B%2Cc0
 - http://www.tomek.fr/fenetre-augmentee/
+- http://rmisto.com.br/
+
+Réflexion sur le thémes qui plaisent:
+- https://wordpress.org/themes/skt-photo-world
+- http://theme.wordpress.com/themes/intergalactic/
