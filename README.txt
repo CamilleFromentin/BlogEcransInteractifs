@@ -1,4 +1,4 @@
-BlogEcransInteractifs
+﻿BlogEcransInteractifs
 =====================
 
 
@@ -28,3 +28,5 @@ References
 Réflexion sur le thémes qui plaisent:
 - https://wordpress.org/themes/skt-photo-world
 - http://theme.wordpress.com/themes/intergalactic/
+
+-Thomas Fauquembergue article sur FireWall, Body paint et Nervous Structure + modification du WorkPress avec le groupe + badge développez votre popre site sur codecadémie.
