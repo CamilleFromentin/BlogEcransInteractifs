@@ -29,6 +29,7 @@ Réflexion sur le thémes qui plaisent:
 - https://wordpress.org/themes/skt-photo-world
 - http://theme.wordpress.com/themes/intergalactic/
 
+<<<<<<< HEAD
 JOURNEE 2 :
 Liste des choses a faire : 
 	- Chacun de nous fait 3 articles
@@ -53,3 +54,6 @@ Avancé du projet:
 
 
 
+=======
+-Thomas Fauquembergue article sur FireWall, Body paint et Nervous Structure + modification du WorkPress avec le groupe + badge développez votre popre site sur codecadémie.
+>>>>>>> origin/master
