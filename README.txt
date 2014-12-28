@@ -1,4 +1,4 @@
-BlogEcransInteractifs
+﻿BlogEcransInteractifs
 =====================
 
 
@@ -28,3 +28,28 @@ References
 Réflexion sur le thémes qui plaisent:
 - https://wordpress.org/themes/skt-photo-world
 - http://theme.wordpress.com/themes/intergalactic/
+
+JOURNEE 2 :
+Liste des choses a faire : 
+	- Chacun de nous fait 3 articles
+	- Modifier le thème afin que la home page soit la page unique contenant tous les articles 
+	- Trouver une typographie sympa pour le logo
+
+Compte Rendu de la journée : 
+Essai avec le Template Adament : Nous n'avons pas réussi a faire de la page d'accueil notre page unique
+Changement De template : Mise en place de Fyre
+Prise en main du template par nous tous, création d'article test, de legende test, d'image test, de commentaire test
+Reflexion sur les tâches à venir
+
+Avancé du projet:
+- nous épurons le site de tous nos tests effectués
+- chacun de nous écrit 3 articles et trouvent une belle image illustrative pour le slider en haut de page
+- choix du logo final parmis ceux créés par Pauline
+- recherche de widget supplémentaires utiles pour notre site
+
+
+
+
+
+
+
