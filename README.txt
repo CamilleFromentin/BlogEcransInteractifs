@@ -29,25 +29,38 @@ Réflexion sur le thémes qui plaisent:
 - https://wordpress.org/themes/skt-photo-world
 - http://theme.wordpress.com/themes/intergalactic/
 
-
 JOURNEE 2 :
 Liste des choses a faire : 
-	- Chacun de nous fait 3 articles
-	- Modifier le thème afin que la home page soit la page unique contenant tous les articles 
-	- Trouver une typographie sympa pour le logo
-
-Compte Rendu de la journée : 
+	-Chacun de nous fait 3 articles
+	-Modifier le thème afin que la home page soit la page unique contenant tous les articles 
+	-Trouver une typographie sympa pour le logo
+COMPTE RENDU DE LA JOURNEE 3 : 
 Essai avec le Template Adament : Nous n'avons pas réussi a faire de la page d'accueil notre page unique
 Changement De template : Mise en place de Fyre
 Prise en main du template par nous tous, création d'article test, de legende test, d'image test, de commentaire test
 Reflexion sur les tâches à venir
 
-Avancé du projet:
-- nous épurons le site de tous nos tests effectués
-- chacun de nous écrit 3 articles et trouvent une belle image illustrative pour le slider en haut de page
-- choix du logo final parmis ceux créés par Pauline
-- recherche de widget supplémentaires utiles pour notre site
 
-=======
-Desciptifs du travail de chacun
--Thomas Fauquembergue article sur FireWall, Body paint et Nervous Structure + modification du WorkPress avec le groupe + badge développez votre popre site sur codecadémie.
+JOURNEE 4  29/12/14
+Mise en ligne articles de Camille : "Ibar", "Ardoise" et "Vos yeux ont des oreilles"
+Mise en ligne articles de Pauline : "Still life", "Rencontres imaginaires" et "I just don't know what to do with myself" 
+
+31/12/14
+Camille et Pauline : 
+"Améliorer l'apparence du site" : 
+	retirer les test
+	revoir et faire correspondre les mises en pages des articles
+	mettre des images de présentation
+
+
+02/01/15
+Camille : Corriger le bug du titre Article
+	  Changer la couleur du site
+	  Mise en ligne du Read Me
+	  uniformiser la mise en page des articles
+
+Pauline : Création + mise en ligne du logo
+	  Mise à jour du Read me (et mise en ligne par Camille)
+
+
+Amandine : Revoir la mise en page des articles, régler le problème de l'affichage.
